@@ -1,0 +1,10 @@
+Algoritmo PerimetroHexagono
+    Definir L, perimetro Como Real
+    Escribir "Valor del lado:"
+    Leer L
+	
+    perimetro <- L + L + L + L + L + L
+	
+    Escribir "Perimetro: ", perimetro
+FinAlgoritmo
+

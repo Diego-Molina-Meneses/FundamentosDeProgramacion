@@ -1,0 +1,10 @@
+Algoritmo RepartoCartas
+    Definir J, cartas Como Entero
+    Escribir "Numero de jugadores (J):"
+    Leer J
+	
+    cartas <- 52 / J
+	
+    Escribir "Cartas para cada jugador: ", cartas
+FinAlgoritmo
+
