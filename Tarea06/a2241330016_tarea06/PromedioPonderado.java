@@ -1,0 +1,22 @@
+package a2241330016_tarea06;
+import java.util.Scanner;
+public class PromedioPonderado {
+    public static void main(String[] args) {
+         Scanner sc = new Scanner(System.in);
+
+        System.out.print("Nota 1: ");
+        double N1 = sc.nextDouble();
+        System.out.print("Nota 2: ");
+        double N2 = sc.nextDouble();
+        System.out.print("Nota 3: ");
+        double N3 = sc.nextDouble();
+
+        double promedio = N1*0.2 + N2*0.3 + N3*0.5;
+
+        if (promedio >= 6) {
+            System.out.println("Promedio satisfactorio: " + promedio);
+        } else {
+            System.out.println("Promedio no satisfactorio: " + promedio);
+        }
+    }
+}
