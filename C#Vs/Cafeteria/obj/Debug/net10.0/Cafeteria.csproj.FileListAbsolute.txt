@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\bin\Debug\net10.0\Cafeteria.exe
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\bin\Debug\net10.0\Cafeteria.deps.json
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\bin\Debug\net10.0\Cafeteria.runtimeconfig.json
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\bin\Debug\net10.0\Cafeteria.dll
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\bin\Debug\net10.0\Cafeteria.pdb
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\obj\Debug\net10.0\Cafeteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\obj\Debug\net10.0\Cafeteria.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\obj\Debug\net10.0\Cafeteria.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\obj\Debug\net10.0\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\obj\Debug\net10.0\Cafeteria.dll
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\obj\Debug\net10.0\refint\Cafeteria.dll
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\obj\Debug\net10.0\Cafeteria.pdb
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\obj\Debug\net10.0\Cafeteria.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Documentos\C#Vs\cafeteria\obj\Debug\net10.0\ref\Cafeteria.dll
